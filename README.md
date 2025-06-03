@@ -60,9 +60,11 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>🤖 Advancing in Artificial Intelligence (AI) and Machine Learning (ML), with hands-on work on model development and evaluation.</li>
+  <li>🧠 Exploring various Neural Network architectures, including CNNs and RNNs, to strengthen deep learning fundamentals.</li>
+  <li>🗃️ Sharpening my skills in SQL for efficient data querying, manipulation, and database design.</li>
+  <li>📊 Improving proficiency in Microsoft Excel, focusing on formulas, pivot tables, and data analysis tools.</li>
+  <li>📈 Learning Power BI to design insightful dashboards and perform interactive data visualization.</li>
 </ul>
   
 <br />
