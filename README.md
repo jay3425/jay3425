@@ -10,8 +10,10 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Jay! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664" alt="Profile views">
-<a href="https://github.com/Aditya664"><img src="https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social" alt="Github"></a></p>
+
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=jay3425.jay3425" alt="Profile views">
+<a href="https://github.com/jay3425"><img src="https://img.shields.io/github/followers/jay3425?label=Follow&amp;style=social" alt="Github"></a></p>
+
 <!--Start Intro-->               
 <p align="left">I am a Data Scientist and Machine Learning Enthusiast with a huge love for Python, java, RDBMS, Data Analysis and Visualization. </p>
 
