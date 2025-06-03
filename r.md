@@ -5,7 +5,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://pin.it/12zWvNNFS">
+  <img align="right" width="40%" src="https://github.com/jay3425/jay3425/blob/main/1.jpeg">
 </div>
 
 ---
