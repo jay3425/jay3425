@@ -72,6 +72,7 @@
 <br />
 <br />
 <br />
+<br />
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
