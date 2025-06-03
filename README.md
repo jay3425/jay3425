@@ -11,7 +11,7 @@
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=jay3425.jay3425" alt="Profile views">
+<p>
 <a href="https://github.com/jay3425"><img src="https://img.shields.io/github/followers/jay3425?label=Follow&amp;style=social" alt="Github"></a></p>
 
 <!--Start Intro-->               
