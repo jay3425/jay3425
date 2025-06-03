@@ -60,14 +60,7 @@
     </picture>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/jay3425/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
-</p>
+
 <br />
 
 <!--Github stats Table--> 
