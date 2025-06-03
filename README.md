@@ -9,7 +9,7 @@
 <!--Header Name-->
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Jay! 
 *Digital Craftsman (Developer / Programmer)*
-<br /> 
+<br/> 
 
 <p>
 <a href="https://github.com/jay3425"><img src="https://img.shields.io/github/followers/jay3425?label=Follow&amp;style=social" alt="Github"></a></p>
