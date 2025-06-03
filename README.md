@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
+![jay3425 Banner Image](https://github.com/jay3425/jay3425/blob/main/0603(1).png)
 
   <h3 id="hey-there">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
