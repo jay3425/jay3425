@@ -70,10 +70,7 @@
   <li>📈 Learning Power BI to design insightful dashboards and perform interactive data visualization.</li>
 </ul>
   
-<br />
-<br />
-<br />
-<br />
+
 <br />
 <br />
 <br />
