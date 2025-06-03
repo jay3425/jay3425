@@ -1,6 +1,7 @@
-  <h3 id="hey-there">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 <!--Banner-->
 ![Kiran1689 Banner Image](./banner.png)
+
+  <h3 id="hey-there">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 <!--Night Owl image-->
 <div>
