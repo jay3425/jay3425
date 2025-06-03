@@ -5,7 +5,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://github.com/jay3425/jay3425/blob/main/1.jpeg">
+  <img align="right" width="40%" src="https://github.com/jay3425/jay3425/blob/main/Dog%20Man%20GIF%20by%20Pluralsight.gif">
 </div>
 
 ---
