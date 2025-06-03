@@ -19,10 +19,13 @@
 <a href="https://github.com/jay3425"><img src="https://img.shields.io/github/followers/jay3425?label=Follow&amp;style=social" alt="Github"></a></p>
 
 <!--Start Intro-->               
-<p align="left">I am a Data Scientist and Machine Learning Enthusiast with a huge love for Python, java, RDBMS, Data Analysis and Visualization. </p>
+<p align="left">I am a Data Scientist and Machine Learning Enthusiast with a huge love for Python, Java, RDBMS, Data Analysis, and Visualization. </p>
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🧠 I see every project as a chance to learn, grow, and build something impactful.
+- 🌱 I’m currently learning many things, I believe every day is a learning opportunity.
+- 🚀 From Python to Pandas and HTML to TensorFlow, I love turning ideas into code and data into insight.
+- 📊 Exploring the intersection of analytics, AI, and visualization—one dataset at a time.
 - 💻 Visit my [Portfolio]() for more details about me.
 <!--End Intro-->
 
