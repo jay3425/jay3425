@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning many things, I believe every day is a learning opportunity.
 - 🚀 From Python to Pandas and HTML to TensorFlow, I love turning ideas into code and data into insight.
 - 📊 Exploring the intersection of analytics, AI, and visualization—one dataset at a time.
-- 💻 Visit my [Portfolio]() for more details about me.
+- 💻 Visit my [Portfolio](https://jay3425.github.io/portfolio/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
