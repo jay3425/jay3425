@@ -48,6 +48,12 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+   <!-- New badges -->
+  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Generative%20AI-%23007ACC.svg?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Neural%20Network-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Neural Network" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-%230073CE.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Cloud Computing" />
+
 </div>
 
 <picture>
