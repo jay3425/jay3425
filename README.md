@@ -120,7 +120,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/jay3425/speech-assistant-pro">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jay3425&repo=AI-HealthCare-Center&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="AI-HealthCare-Center" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jay3425&repo=speech-assistant-pro&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="speech-assistant-pro" />
         </a>
       </p>
     </td>
