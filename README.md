@@ -119,7 +119,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/jay3425/AI-HealthCare-Center">
+        <a href="https://github.com/jay3425/speech-assistant-pro">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=jay3425&repo=AI-HealthCare-Center&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="AI-HealthCare-Center" />
         </a>
       </p>
